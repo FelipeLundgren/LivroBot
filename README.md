@@ -1,2 +1,2 @@
-# bookbot
-BookBot is my first project!
+# LivroBot
+LivroBot é o meu 1º projeto!!
